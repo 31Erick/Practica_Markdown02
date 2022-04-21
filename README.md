@@ -7,7 +7,11 @@ Practica de Markdown
 
 Logo de la UCR  
 Remoto  
+
 ![](https://accionsocial.ucr.ac.cr/sites/default/files/herramienta/imagenes/2020-12/firma-promocional-con-texto-negro.png)  
+
+Con Tamaño modificado y tag de HTML
+ <img src="https://accionsocial.ucr.ac.cr/sites/default/files/herramienta/imagenes/2020-12/firma-promocional-con-texto-negro.png" alt="logo de La UCR" width="624" height="322"> 
 Local  
 ![](firma-ucr-ico.png)
 
@@ -22,5 +26,7 @@ Lista numerada
 Lista no numerada 
 
 - Primer item
+   - Otro item
+   - Otro item
 - Segudo item
 - Tercer item
