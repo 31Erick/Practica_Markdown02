@@ -9,4 +9,4 @@ Logo de la UCR
 Remoto  
 ![](https://accionsocial.ucr.ac.cr/sites/default/files/herramienta/imagenes/2020-12/firma-promocional-con-texto-negro.png)  
 Local  
-![](firma-ucr-ico)
+![](firma-ucr-ico.png)
