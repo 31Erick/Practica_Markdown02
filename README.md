@@ -10,3 +10,17 @@ Remoto
 ![](https://accionsocial.ucr.ac.cr/sites/default/files/herramienta/imagenes/2020-12/firma-promocional-con-texto-negro.png)  
 Local  
 ![](firma-ucr-ico.png)
+
+*Texto itálica*  
+**Texto Negrita**  
+
+Lista numerada  
+1. Uno
+2. Dos
+3. tres
+
+Lista no numerada 
+
+- Primer item
+- Segudo item
+- Tercer item
