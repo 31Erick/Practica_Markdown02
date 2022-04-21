@@ -5,6 +5,8 @@ Practica de Markdown
 
 [Sitio web de la Universidad de](https://www.ucr.ac.cr/)
 
-Logo de la UCR
-
-![](https://accionsocial.ucr.ac.cr/sites/default/files/herramienta/imagenes/2020-12/firma-promocional-con-texto-negro.png)
+Logo de la UCR  
+Remoto  
+![](https://accionsocial.ucr.ac.cr/sites/default/files/herramienta/imagenes/2020-12/firma-promocional-con-texto-negro.png)  
+Local  
+![](firma-ucr-ico)
